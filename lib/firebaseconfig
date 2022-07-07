@@ -1,0 +1,18 @@
+
+
+
+// // Your web app's Firebase configuration
+// const firebaseConfig = {
+//     apiKey: "AIzaSyA8i7_g7jRumXeEw0R5mTXAkBnksgQrx-I",
+//     authDomain: "seniordesignscc.firebaseapp.com",
+//     databaseURL: "https://seniordesignscc-default-rtdb.firebaseio.com",
+//     projectId: "seniordesignscc",
+//     storageBucket: "seniordesignscc.appspot.com",
+//     messagingSenderId: "441685566730",
+//     appId: "1:441685566730:web:30c5987abf05ef08f306f3"
+//   };
+
+
+
+
+//    color: Color.fromARGB(255, 160, 163, 165),
